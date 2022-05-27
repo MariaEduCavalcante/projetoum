@@ -1,0 +1,15 @@
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\projetoum.csproj.AssemblyReference.cache
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\projetoum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\projetoum.AssemblyInfoInputs.cache
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\projetoum.AssemblyInfo.cs
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\projetoum.csproj.CoreCompileInputs.cache
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\bin\Debug\net6.0\projetoum.exe
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\bin\Debug\net6.0\projetoum.deps.json
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\bin\Debug\net6.0\projetoum.runtimeconfig.json
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\bin\Debug\net6.0\projetoum.dll
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\bin\Debug\net6.0\projetoum.pdb
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\projetoum.dll
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\refint\projetoum.dll
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\projetoum.pdb
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\projetoum.genruntimeconfig.cache
+C:\Users\2etimds\Desktop\2etimds\duda_leo\27_05\projetoum\projetoum\obj\Debug\net6.0\ref\projetoum.dll
